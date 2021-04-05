@@ -22,6 +22,17 @@ Soy Developer de algunos lenguajes de programacion, aparte de eso me encanta el 
 
 <br>
 
+### ✨ Databases
+<div style="display: flex;">
+	<div style="padding:3px">
+		<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+		<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+	<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+	</div>
+</div>
+
+<br>
+
 ## More about me
  ```python
 class Me:
