@@ -1,4 +1,4 @@
-### Hey, [xKyotto](https://github.com/xKyotto) here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, [xKyotto](https://github.com/xKyotto) here! <img src="https://1.bp.blogspot.com/-ut7ZlBpiXD4/XygfxRvZdJI/AAAAAAAEGYg/kDbpacLTIcEIEMgKxCOxHBKe2g9i1GyWACLcBGAsYHQ/w623-h350/tenor.gif" width="25px">
 
 <img src="https://i.pinimg.com/originals/7a/49/f8/7a49f815262d7cbd313c80936d0a02ba.gif" width="350px" align="right">
 
