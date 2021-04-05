@@ -24,16 +24,16 @@ Soy Developer de algunos lenguajes de programacion, aparte de eso me encanta el 
 
 ## More about me
  ```python
- class Me:
- hobbies = [
-	CiberSecurity
-	Programming
-	Aprender
- ]
- lenguajes = [
-	Python
-	JavaScript
-	Go
- ]
- nick = "xKyotto"
+class Me:
+   hobbies = [
+      CiberSecurity
+      Programming
+      Aprender
+   ]
+   lenguajes = [
+      Python
+      JavaScript
+      Go
+   ]
+   nick = "xKyotto"
 ```
