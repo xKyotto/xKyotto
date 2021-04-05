@@ -1,4 +1,4 @@
-### Hola, Soy: [xKyotto](https://github.com/xKyotto) un gusto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola, soy: [xKyotto](https://github.com/xKyotto) un gusto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src="https://1.bp.blogspot.com/-ut7ZlBpiXD4/XygfxRvZdJI/AAAAAAAEGYg/kDbpacLTIcEIEMgKxCOxHBKe2g9i1GyWACLcBGAsYHQ/w623-h350/tenor.gif" width="350px" align="right">
 
