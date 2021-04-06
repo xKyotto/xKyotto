@@ -44,7 +44,7 @@ class Me:
    lenguajes = [
       Python
       JavaScript
-      Go
+      Java
    ]
    nick = "xKyotto"
 ```
