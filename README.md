@@ -7,6 +7,8 @@ Soy Developer de algunos lenguajes de programacion, aparte de eso me encanta<br>
 # xKyotto Stats:
 <div style="dysplyar: flex;">
 <img alt="Followers" src="https://img.shields.io/github/followers/xKyotto?style=social">
+<img alt="Likes" src="https://img.shields.io/github/stars/xKyotto?style=social">
+
 
 # 🔧 Lenguajes de Programacion:
 <div style="display: flex;">
