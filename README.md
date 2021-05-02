@@ -39,7 +39,7 @@ class Me:
    hobbies = [
       CiberSecurity
       Programming
-      Aprender
+      Learn
    ]
    lenguajes = [
       Python
