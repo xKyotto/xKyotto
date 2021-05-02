@@ -2,7 +2,7 @@
 
 <img src="https://1.bp.blogspot.com/-ut7ZlBpiXD4/XygfxRvZdJI/AAAAAAAEGYg/kDbpacLTIcEIEMgKxCOxHBKe2g9i1GyWACLcBGAsYHQ/w623-h350/tenor.gif" width="350px" align="right">
 
-Soy Developer de algunos lenguajes de programacion, aparte de eso me encanta\n el hacking etico y estar un rato con los panas y @Br34kC0d8.
+Soy Developer de algunos lenguajes de programacion, aparte de eso me encanta<br> el hacking etico y estar un rato con los panas y @Br34kC0d8.
 
 # 🔧 Lenguajes de Programacion:
 <div style="display: flex;">
