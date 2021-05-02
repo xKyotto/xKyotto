@@ -4,9 +4,9 @@
 
 Soy Developer de algunos lenguajes de programacion, aparte de eso me encanta<br> el hacking etico y estar un rato con los panas y @Br34kC0d8.
 
-# Me:
+# xKyotto Stats:
 <div style="dysplyar: flex;">
-<img alt="Rating" src="https://img.shields.io/amo/rating/xkyotto?label=rating"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/xKyotto?style=social">
 
 # 🔧 Lenguajes de Programacion:
 <div style="display: flex;">
