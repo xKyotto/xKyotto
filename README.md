@@ -10,7 +10,7 @@ Soy Developer de algunos lenguajes de programacion, aparte de eso me encanta<br>
 <img alt="Likes" src="https://img.shields.io/github/stars/xKyotto?style=social">
 
 
-# 🔧 Lenguajes de Programacion:
+### 🔧 Lenguajes de Programacion:
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
